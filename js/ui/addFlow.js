@@ -94,6 +94,8 @@ function closeAdd(){ addOverlay.classList.remove("open"); }
 
 export function initAddFlow(){
   document.getElementById("openAddFlow").addEventListener("click", openAddFlowStep1);
-  addOverlay.addEventListener("click", e => { if(e.target === addOverlay) closeAdd(); });
-  document.querySelectorAll("[data-close-add]").forEach(b => b.addEventListener("click", closeAdd));
+  /* Delegated so buttons rendered later (e.g. step 1's Cancel) also close. */
+  addOverlay.addEventListener("click", e => {
+    if(e.target === addOverlay || e.target.closest("[data-close-add]")) closeAdd();
+  });
 }

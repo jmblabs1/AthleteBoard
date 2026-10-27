@@ -21,9 +21,7 @@ Web tool for following college baseball players and viewing their stats. Intende
 
 ## Known gaps / next steps
 - `fetchRosterFromUrl()` (`js/roster.js`) is a stub. A real version needs a serverless scraper (browsers cannot cross-origin scrape athletics sites).
-- Six dummy seed players in `data/seed-players.json` must be removed before launch (set the file to `[]`; product should start empty).
-- The Add flow's step-1 "Cancel" button does nothing (its listener is bound at init, before the button exists). Preserved as-is during the modular split.
-- No accounts or shared database; data is per-browser.
+- Six dummy seed players in `data/seed-players.json` must be removed before launch (set the file to `[]`; product should start empty).- No accounts or shared database; data is per-browser.
 
 ## Workflow
 Work on `dev`; merge to `main` to publish the live site.
