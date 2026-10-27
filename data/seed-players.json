@@ -1,0 +1,14 @@
+[
+  {"id":"seed-mason-hart","name":"Mason Hart","school":"Vanderbilt","sourceUrl":"",
+    "batting":{"GP-GS":"52-52","AVG":".372","OBP":".465","SLG":".663","OPS":"1.063","AB":"199","H":"74","2B":"16","3B":"3","HR":"12","TB":"132","R":"47","RBI":"41","BB":"28","HBP":"7","SO":"31","SF":"4","SH":"1","GDP":"3","SB-ATT":"8-10"}},
+  {"id":"seed-eli-navarro","name":"Eli Navarro","school":"LSU","sourceUrl":"",
+    "batting":{"GP-GS":"55-54","AVG":".351","OBP":".446","SLG":".649","OPS":"1.013","AB":"205","H":"72","2B":"14","3B":"1","HR":"15","TB":"133","R":"44","RBI":"42","BB":"31","HBP":"5","SO":"36","SF":"3","SH":"0","GDP":"5","SB-ATT":"3-4"}},
+  {"id":"seed-andrew-schmit","name":"Andrew Schmit","school":"Oregon","sourceUrl":"",
+    "batting":{"GP-GS":"53-53","AVG":".335","OBP":".446","SLG":".660","OPS":".995","AB":"206","H":"69","2B":"17","3B":"4","HR":"14","TB":"136","R":"49","RBI":"38","BB":"29","HBP":"9","SO":"39","SF":"2","SH":"2","GDP":"2","SB-ATT":"7-9"}},
+  {"id":"seed-brady-ebel","name":"Brady Ebel","school":"North Carolina","sourceUrl":"",
+    "batting":{"GP-GS":"56-56","AVG":".321","OBP":".415","SLG":".587","OPS":".980","AB":"218","H":"70","2B":"15","3B":"2","HR":"13","TB":"128","R":"42","RBI":"45","BB":"30","HBP":"6","SO":"34","SF":"5","SH":"0","GDP":"6","SB-ATT":"2-3"}},
+  {"id":"seed-cam-foster","name":"Cam Foster","school":"Tennessee","sourceUrl":"",
+    "batting":{"GP-GS":"51-50","AVG":".318","OBP":".402","SLG":".571","OPS":".946","AB":"198","H":"63","2B":"13","3B":"2","HR":"11","TB":"113","R":"39","RBI":"36","BB":"25","HBP":"8","SO":"41","SF":"3","SH":"1","GDP":"4","SB-ATT":"5-7"}},
+  {"id":"seed-noah-williams","name":"Noah Williams","school":"Wake Forest","sourceUrl":"",
+    "batting":{"GP-GS":"54-53","AVG":".309","OBP":".396","SLG":".546","OPS":".917","AB":"207","H":"64","2B":"12","3B":"5","HR":"9","TB":"113","R":"46","RBI":"33","BB":"27","HBP":"4","SO":"37","SF":"4","SH":"2","GDP":"2","SB-ATT":"14-17"}}
+]
